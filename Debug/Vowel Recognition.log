@@ -1,0 +1,110 @@
+﻿Build started 30-09-2022 01:05:37.
+     1>Project "c:\Users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Vowel Recognition\Vowel Recognition.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Vowel Recognition.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Vowel Recognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Vowel Recognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Vowel Recognition.cpp"
+         Vowel Recognition.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(157): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(163): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(184): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(210): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(239): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(256): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(268): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(287): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(299): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(341): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(350): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(352): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(366): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(378): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(398): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(410): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(444): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(438): warning C4101: 'n' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(324): warning C4101: 'fp' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(324): warning C4101: 'fp1' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(522): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(524): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(531): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(533): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(559): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(579): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(591): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(631): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(648): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(745): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(761): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(765): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(504): warning C4101: 'q' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\vowel recognition\vowel recognition\vowel recognition.cpp(506): warning C4101: 'filename3' : unreferenced local variable
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Vowel Recognition.exe.embed.manifest.res" "Debug\Vowel Recognition_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Vowel Recognition.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.lib" /MACHINE:X86 "Debug\Vowel Recognition.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\Vowel Recognition.obj"
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Vowel Recognition.exe.embed.manifest" /manifest "Debug\Vowel Recognition.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Vowel Recognition.exe.embed.manifest.res" "Debug\Vowel Recognition_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Vowel Recognition.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.lib" /MACHINE:X86 "Debug\Vowel Recognition.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\Vowel Recognition.obj"
+         Vowel Recognition.vcxproj -> c:\users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Debug\Vowel Recognition.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Vowel Recognition.unsuccessfulbuild".
+         Touching "Debug\Vowel Recognition.lastbuildstate".
+     1>Done Building Project "c:\Users\admin\documents\visual studio 2010\Projects\Vowel Recognition\Vowel Recognition\Vowel Recognition.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.50
